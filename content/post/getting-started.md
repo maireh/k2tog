@@ -88,9 +88,9 @@ Depending on the exact mix of yarn, the blanket will use between 6 skeins to 33 
 
 ## How about turning the blanket into a scarf?
 
-The project will not only be expensive but it will also take a long time to knit. Your first project should be quick project that does not break the bank. The finished blanked is 4 feet wide and 5 1/2 feet long. How about turning the soft squishy blanket into a soft squishy scarf? The scarf can be as narrow as 4 inches wide and you can knit it until you run out of yarn.
+Your first project should be quick project that does not break the bank. The finished blanked is 4 feet wide and 5 1/2 feet long. How about turning the soft squishy blanket into a soft squishy scarf? The scarf can be as narrow as 4 inches wide and you can knit it until you run out of yarn.
 
-To convert the blanket into a scarf all you need to do is change the instructions. Where the instructions say to CO 126 sts, you cast on 14 stitches. When you are knitting a row, knit to 3 stitches before the end of the row and knit the icord. 
+To convert the blanket into a scarf change the instructions. Where the instructions say to CO 126 sts, you cast on 14 stitches. When you are knitting a row, knit to 3 stitches before the end of the row and knit the icord. 
 
 You can then buy 2 skeins of super soft Marino wool and your first project will cost less than $24 in yarn.
 
@@ -166,7 +166,7 @@ $$max Width=48\frac{yards}{3,240}$$
 
 If you reduce the length by half then you can cast on twice as many stitches.
 
-I like a 4 inch wide scarf which makes everything easy to calculate. You can just as easliy make a 6 or 8 inch wide scarf.
+You can make the scarf any desired width. You can easliy make a 4 inch, 6 inch or 8 inch wide scarf.
 
 $$max Length=66\frac{48}{desired Width}\frac{yards}{3,240}$$
 
