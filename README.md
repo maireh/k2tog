@@ -4,9 +4,9 @@ k2tog is a shared project between Erin Heyming and Maire Howard.
 
 Erin and Maire are bringing up our knit2together.us site using Hugo. Our target user is a beginning knitter. Over time we will taylor it more and more as a knitting site that integrates well with Ravelry.
 
-We are starting with the Academic theme even though this is not likely to be our final theme. 
+We are starting with the Academic theme even though this is not likely to be our final theme.
 
-I have copyrighted the images specific to knit2together. Contact us if you want to use them. 
+I have copyrighted the images specific to knit2together. Contact us if you want to use them.
 
 ## How to install.
 
@@ -14,11 +14,9 @@ I have copyrighted the images specific to knit2together. Contact us if you want 
 
         git clone https://github.com/maireh/k2tog.git
 
-2. [Install Hugo](https://georgecushen.com/create-your-website-with-hugo/#installing-hugo) 
- TODO: test if we need to create a hugo site. It might just work. 
+2. [Install Hugo](https://georgecushen.com/create-your-website-with-hugo/#installing-hugo)
 
         cd k2tog       
-        hugo new site . --force
 
 2. Install Academic with [git](https://help.github.com/articles/set-up-git/):
 
@@ -29,7 +27,7 @@ I have copyrighted the images specific to knit2together. Contact us if you want 
 
 3. Run the hugo site for development
 
-hugo server -D -w -v -d public
+        hugo server -D -w -v -d public
 
 
 4. Set up your local site for Git integration
