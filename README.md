@@ -18,11 +18,22 @@ I have copyrighted the images specific to knit2together. Contact us if you want 
 
         cd k2tog       
 
-2. Install Academic with [git](https://help.github.com/articles/set-up-git/):
+2. Install tranquilpeak theme (from the tranquilpeak documentation)
 
-        git clone https://github.com/gcushen/hugo-academic.git themes/academic
+        ### For people who want to use the original version of Tranquilpeak without modifications (users)		
 
-    Or alternatively, [download Academic](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract it into a `themes/academic` folder within your Hugo website.
+		Go to the directory where you have your Hugo site and run:		
+
+		```shell
+		mkdir themes
+		cd themes
+		git clone https://github.com/kakawait/hugo-tranquilpeak-theme.git
+		```	
+
+		More information on [user documentation](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md) to install and configure the theme  		
+
+		### For people who want to create their own version of tranquilpeak (developers) 		
+		2. Follow [developer documentation](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/developer.md) to edit and build the theme 
 
 
 3. Run the hugo site for development
