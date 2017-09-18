@@ -1,0 +1,19 @@
+<footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; {{ now.Format "2006" }} {{ with .Site.Params.footer.copyright }}{{ . | safeHTML }}{{ else }}{{ with .Site.Author.name }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}{{ end }}. {{ i18n "footer.all_rights_reserved" }}
+  </span>
+
+
+<!-- LaTeX math rendering -->
+<!-- copied from Academic -->
+    {{ if or .Params.math .Site.Params.math }}
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    {{ if not .Site.Params.disable_sri }}
+    {{ printf "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" .Site.Data.sri.js.mathJax | safeHTML }}
+    {{ else }}
+    <script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML"></script>
+    {{ end }}
+    {{ end }}
+</footer>
