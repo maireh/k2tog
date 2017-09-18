@@ -13,5 +13,9 @@ comments:       false
 showMeta:       false
 showActions:    false
 #thumbnailImage: //example.com/image.jpg
+
+# Enable global LaTeX math rendering?
+# copied from Academic theme
+math: false
 ---
 

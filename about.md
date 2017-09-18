@@ -10,12 +10,12 @@ widget = "about"
 weight = 1
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Hand Knitting Instruction",
-    "Knitting Design",
-    "Machine Knitting"
-  ]
+#[interests]
+#  interests = [
+#    "Hand Knitting Instruction",
+#    "Knitting Design",
+#    "Machine Knitting"
+#  ]
 
 # List your qualifications (such as academic degrees).
 #[[education.courses]]
