@@ -4,9 +4,7 @@ k2tog is a shared project between Erin Heyming and Maire Howard.
 
 Erin and Maire are bringing up our knit2together.us site using Hugo. Our target user is a beginning knitter. Over time we will taylor it more and more as a knitting site that integrates well with Ravelry.
 
-We are starting with the Academic theme even though this is not likely to be our final theme.
-
-I have copyrighted the images specific to knit2together. Contact us if you want to use them.
+We have copyrighted the images specific to knit2together. Contact us if you want to use them.
 
 ## How to install.
 
@@ -42,14 +40,16 @@ I have copyrighted the images specific to knit2together. Contact us if you want 
 
 4. Set up your local site for Git integration
 
- 	TODO: Naire and Erin will define the Github integration process. So far Maire's kludgy process just works but Erin has a better process. The only thing I would recomend is to get a git markdown renderer so you can see README.me before you push. I am using [grip](https://github.com/joeyespo/grip).
+ 	TODO: Maire and Erin will define the Github integration process. So far Maire's kludgy process just works but Erin has a better process. The only thing I would recomend is to get a git markdown renderer so you can see README.me before you push. I am using [grip](https://github.com/joeyespo/grip).
 
 
 ## Development Process
 
 These instructions are for Erin Heyming and Maire Howard as it is for development of the [Knit 2 Together](www.knit2together.us) web site. 
 
-We don't have the final process for deployment yet, but for now we are just deploying the non-draft generated files. Make sure you delete the public folder since the hugo server generates localhost links. Then run hugo in the k2tog directory.
+We don't have the final process for deployment yet, but for now we are just deploying the non-draft generated files. In the future we might use rsync or nanobox.
+
+Make sure you delete the public folder since the hugo server generates localhost links. Then run hugo in the k2tog directory.
 
 		hugo
 
