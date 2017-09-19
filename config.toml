@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseurl = ""
+baseurl = "knit2together.us"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Knit 2 Together"
@@ -93,6 +93,18 @@ canonifyurls = true
 #  name = "Stack Overflow"
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
 #  url = "https://stackoverflow.com/users/636472/kakawait"
+[[menu.links]]
+  weight = 3
+  identifier = "ravelryM"
+  name = "Maire on Ravelry"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-ravelry\"></i>"
+  url = "http://www.ravelry.com/designers/maire-howard"
+[[menu.links]]
+  weight = 4
+  identifier = "ravelryE"
+  name = "Erin on Ravelry"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-ravelry\"></i>"
+  url = "http://www.ravelry.com/designers/erin-heyming"
 
 #[[menu.misc]]
 #  weight = 1
