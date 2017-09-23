@@ -18,8 +18,6 @@ draft: true
 Learn the basics of knitting.
 <!--more-->
 
-# Table of Contents
-
 {{% toc %}}
 
 # What is Stockinette
