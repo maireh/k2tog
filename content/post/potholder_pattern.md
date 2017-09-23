@@ -52,6 +52,7 @@ For this project you will use the following techniques to create a square pothol
 ## Yarn
 
 * Wool or cotton medium weight yarn
+<!--TODO: calculate amount-->
 
 We will use wool or cotton yarn to withstand the heat a potholder experiences. If you choose wool, you'll have the added benefit of it being naturally flame-retardant. Cotton yarn and super-wash wool yarn will be machine washable. If you choose untreated wool yarn, you can still machine wash your potholder, but it will shrink and become more dense -- a process called felting (a fun project to try).
 
@@ -88,6 +89,7 @@ There are many types of needles on the market -- straight needles and circular n
 * Use the long tail cast on technique to cast on 30 stitches.
 * For each row, knit all of the stitches until you've knit up a square.
 * Bind off all of the stitches.
+* Weave in the two yarn ends.
 
 # Further explorations
 
