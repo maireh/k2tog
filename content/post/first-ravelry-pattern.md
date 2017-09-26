@@ -21,9 +21,9 @@ draft: false
 Before you run out and get a lot of knitting tools, and learn a lot of techniques, choose a pattern. The pattern itself will tell you what you need to learn and what tools to buy.
 <!--more-->
 
-# Table of Contents
+<h1>Table of Contents</h1>
 
-{{% toc%}}
+{{% toc %}}
 
 # Choose a Pattern
 The absolute simplest pattern on Ravelry is [Garter Squish](http://www.ravelry.com/patterns/library/garter-squish) by [Stephen West](http://www.ravelry.com/designers/stephen-west). You only need to know how to cast on, bind off, knit, and create an i-cord edge. In the end you will have a squishy blanket. What if you would rather have a squishy scarf? Not to worry, just make your blanket smaller or use finer yarn with a smaller needle.
@@ -150,32 +150,41 @@ Garter Squish has a specific kind of bind off. Knit 2 Together through the back 
 # Math stuff
 Skip over this section if you don't like math.
 
-For a rectangular project I don't make a gauge swatch since I can measure the blanket while I am knitting it to verify that it will come out to the approximate final dimensions. 
+For a rectangular project I don't make a gauge swatch since I can measure Garter Squish while I am knitting it to verify that it will come out to the approximate final dimensions. 
 
-A combination of the gauge and finished measurements tell you how large the final blanket will be.  As soon as your project is large enough, measure the stitches and rows in a 4 inch square. 
+A combination of the gauge and finished measurements tell you how large the final blanket will be.  As soon as your project is large enough, measure the stitches and rows in a 4 inch square. [^2]
 
-$$final Width=48\frac{11}{measured Stitches}$$
-$$final Length=66\frac{18}{measured Rows}$$
+$$final Width=48\frac{11}{measured Stitches}$$ 
+$$final Length=66\frac{18}{measured Rows}$$ 
+
+[^2]: From the {{< hl-text yellow >}}FINISHED MEASUREMENTS{{< /hl-text >}} section, Garter Squish is 48” wide and 66" long. From the  {{< hl-text yellow >}}GAUGE{{< /hl-text >}} section, Garter Squish is 11 stitches and 18 rows per 4 inch square.
+
+
 
 You can also use information about gauge, finished measurements, yarn yardage, CO stitches, and total rows to reduce the amount of yarn the project will use. 
 
 You need 3,240 yards of yarn to knit the full blanket. If you only have 2 skeins of yarn for a total of 400 yards then you will need to turn the blanket into a scarf. 
 
-If you want to keep the original 5 1/2 foot length then the new width is
+If you want to keep the original 5 1/2 foot length then the new width is [^3]
 
 $$max Width=48\frac{yards}{3,240}$$
 
+[^3]: From the {{< hl-text yellow >}}YARN{{< /hl-text >}} section, Garter Squish uses 3,240 yards of yarn
+
 If you reduce the length by half then you can cast on twice as many stitches.
 
-You can make the scarf any desired width. You can easliy make a 4 inch, 6 inch or 8 inch wide scarf.
+You can make the scarf any desired width. You can easliy make a 4 inch, 6 inch or 8 inch wide scarf. 
 
 $$max Length=66\frac{48}{desired Width}\frac{yards}{3,240}$$
 
-If you make these adjustments then you will also need to adjust the number of stitches and rows in the final blanket.
+
+If you make these adjustments then you will also need to adjust the number of stitches and rows in the final blanket. [^4]
 
 $$cast On Stitches=126\frac{desired Width}{48}$$
 
 $$total Rows=282\frac{desired Length}{66}$$
+
+[^4]: From the {{< hl-text yellow >}}INSTRUCTIONS{{< /hl-text >}} section, Garter Squish casts on 126 stitches and is knit for 282 rows.
 
 
 
