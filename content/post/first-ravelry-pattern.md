@@ -21,9 +21,7 @@ draft: false
 Before you run out and get a lot of knitting tools, and learn a lot of techniques, choose a pattern. The pattern itself will tell you what you need to learn and what tools to buy.
 <!--more-->
 
-<h1>Table of Contents</h1>
-
-{{% toc %}}
+<!-- toc -->
 
 # Choose a Pattern
 The absolute simplest pattern on Ravelry is [Garter Squish](http://www.ravelry.com/patterns/library/garter-squish) by [Stephen West](http://www.ravelry.com/designers/stephen-west). You only need to know how to cast on, bind off, knit, and create an i-cord edge. In the end you will have a squishy blanket. What if you would rather have a squishy scarf? Not to worry, just make your blanket smaller or use finer yarn with a smaller needle.
@@ -152,10 +150,13 @@ Skip over this section if you don't like math.
 
 For a rectangular project I don't make a gauge swatch since I can measure Garter Squish while I am knitting it to verify that it will come out to the approximate final dimensions. 
  
-> Numbers in the formulas below come from the Garter Squish pattern. The {{< hl-text yellow >}}FINISHED MEASUREMENTS{{< /hl-text >}} section gives finished dimensions of **48**" wide and **66**" long. 
-> The {{< hl-text yellow >}}GAUGE{{< /hl-text >}} section gives a gauge of _11_ stitches and **18** rows per 4 inch square.
-> The {{< hl-text yellow >}}YARN{{< /hl-text >}} section says that Garter Squish uses **3,240** yards of yarn.
-> The {{< hl-text yellow >}}INSTRUCTIONS{{< /hl-text >}} section says to cast on **126** stitches and knit for **282** rows.
+{{< alert info >}}
+Numbers in the formulas below come from the Garter Squish pattern. The FINISHED MEASUREMENTS section gives finished dimensions of {{< hl-text yellow >}}48"{{< /hl-text >}} wide and {{< hl-text yellow >}}66"{{< /hl-text >}} long. 
+The GAUGE section gives a gauge of {{< hl-text yellow >}}11{{< /hl-text >}} stitches and {{< hl-text yellow >}}18{{< /hl-text >}} rows per 4 inch square.
+The YARN section says that Garter Squish uses {{< hl-text yellow >}}3,240{{< /hl-text >}} yards of yarn.
+The INSTRUCTIONS section says to cast on {{< hl-text yellow >}}126{{< /hl-text >}} stitches and knit for {{< hl-text yellow >}}282{{< /hl-text >}} rows.
+{{< /alert >}}
+
 
 
 As soon as your project is large enough, measure the stitches and rows in a 4 inch square. 
@@ -179,7 +180,7 @@ You can make the scarf any desired width. You can easliy make a 4 inch, 6 inch o
 $$max Length=66\frac{48}{desired Width}\frac{yards}{3,240}$$
 
 
-If you make these adjustments then you will also need to adjust the number of stitches and rows in the final blanket. [^4]
+If you make these adjustments then you will also need to adjust the number of stitches and rows in the final blanket. 
 
 $$cast On Stitches=126\frac{desired Width}{48}$$
 
