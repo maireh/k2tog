@@ -151,25 +151,26 @@ Garter Squish has a specific kind of bind off. Knit 2 Together through the back 
 Skip over this section if you don't like math.
 
 For a rectangular project I don't make a gauge swatch since I can measure Garter Squish while I am knitting it to verify that it will come out to the approximate final dimensions. 
+ 
+> Numbers in the formulas below come from the Garter Squish pattern. The {{< hl-text yellow >}}FINISHED MEASUREMENTS{{< /hl-text >}} section gives finished dimensions of **48**" wide and **66**" long. 
+> The {{< hl-text yellow >}}GAUGE{{< /hl-text >}} section gives a gauge of _11_ stitches and **18** rows per 4 inch square.
+> The {{< hl-text yellow >}}YARN{{< /hl-text >}} section says that Garter Squish uses **3,240** yards of yarn.
+> The {{< hl-text yellow >}}INSTRUCTIONS{{< /hl-text >}} section says to cast on **126** stitches and knit for **282** rows.
 
-A combination of the gauge and finished measurements tell you how large the final blanket will be.  As soon as your project is large enough, measure the stitches and rows in a 4 inch square. [^2]
+
+As soon as your project is large enough, measure the stitches and rows in a 4 inch square. 
 
 $$final Width=48\frac{11}{measured Stitches}$$ 
 $$final Length=66\frac{18}{measured Rows}$$ 
-
-[^2]: From the {{< hl-text yellow >}}FINISHED MEASUREMENTS{{< /hl-text >}} section, Garter Squish is 48” wide and 66" long. From the  {{< hl-text yellow >}}GAUGE{{< /hl-text >}} section, Garter Squish is 11 stitches and 18 rows per 4 inch square.
-
 
 
 You can also use information about gauge, finished measurements, yarn yardage, CO stitches, and total rows to reduce the amount of yarn the project will use. 
 
 You need 3,240 yards of yarn to knit the full blanket. If you only have 2 skeins of yarn for a total of 400 yards then you will need to turn the blanket into a scarf. 
 
-If you want to keep the original 5 1/2 foot length then the new width is [^3]
+If you want to keep the original 5 1/2 foot length then the new width is
 
 $$max Width=48\frac{yards}{3,240}$$
-
-[^3]: From the {{< hl-text yellow >}}YARN{{< /hl-text >}} section, Garter Squish uses 3,240 yards of yarn
 
 If you reduce the length by half then you can cast on twice as many stitches.
 
@@ -184,7 +185,7 @@ $$cast On Stitches=126\frac{desired Width}{48}$$
 
 $$total Rows=282\frac{desired Length}{66}$$
 
-[^4]: From the {{< hl-text yellow >}}INSTRUCTIONS{{< /hl-text >}} section, Garter Squish casts on 126 stitches and is knit for 282 rows.
+
 
 
 

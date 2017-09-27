@@ -39,8 +39,9 @@ Knit 2 Together is brand new. Over time we will have:
 
 We are building Knit 2 Together for you. Please don't hesitate to contact us on Ravelry.
 
-Maire on Ravelry [![Maire](http://badges.ravelry.com/rectangle_32.png)](http://www.ravelry.com/designers/maire-howard) 
+{{< figure src="http://badges.ravelry.com/rectangle_32.png" title="Maire on Ravelry" link="http://www.ravelry.com/designers/maire-howard" >}}  
 
-Erin on Ravelry [![Erin](http://badges.ravelry.com/rectangle_32.png)](http://www.ravelry.com/designers/erin-heyming) 
+{{< figure src="http://badges.ravelry.com/rectangle_32.png" title="Erin on Ravelry" link="http://www.ravelry.com/designers/erin-heyming" >}}
+
 
 
