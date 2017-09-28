@@ -9,7 +9,8 @@ tags:
 - stockinette
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
-thumbnailImage: https://farm9.static.flickr.com/8217/8288399593_9ced919f63.jpg
+<!--TODO: upload image-->
+thumbnailImage: https://farm5.staticflickr.com/4418/36349917150_425811e1ee_o.jpg
 metaAlignment: center
 math: false
 draft: true
@@ -19,9 +20,7 @@ Intro text
 <!--more-->
 more text
 
-# Table of Contents
-
-{{% toc%}}
+<!-- toc -->
 
 # Section Title
 Section content

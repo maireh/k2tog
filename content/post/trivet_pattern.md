@@ -11,7 +11,7 @@ tags:
 autoThumbnailImage: false
 thumbnailImagePosition: "left"
 <!--TODO: upload image-->
-thumbnailImage: https://farm9.static.flickr.com/8217/8288399593_9ced919f63.jpg
+thumbnailImage: https://farm5.staticflickr.com/4418/36349917150_425811e1ee_o.jpg
 metaAlignment: center
 math: false
 draft: true
@@ -25,7 +25,7 @@ This simple pattern is perfect for starting you on your knitting journey.
 In case you're new to knitting, we will try to explain everything for this pattern.
 <!--TODO: we should make a pdf that skips all the chit chat so people that know how to read a pattern can jump right in-->
 
-{{% toc %}}
+<!-- toc -->
 
 # Introduction
 

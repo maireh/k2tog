@@ -8,7 +8,7 @@ tags:
 - front
 - overview
 keywords:
-- tech
+- knit
 
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
